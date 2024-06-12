@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MitjaTez
+- 👋 Hi, I’m Mitja Težak
 - 👀 I’m interested in Web Development (Front-end).
 - 🌱 I’m currently learning React.js.
 - ⚡ Fun fact: Slovenian national champ in Skateboarding.
