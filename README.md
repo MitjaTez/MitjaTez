@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Mitja Težak
+
+- 
 - 👀 I’m interested in Web Development (Front-end).
-- 🌱 I’m currently learning React.js.
-- ⚡ Fun fact: Slovenian national champ in Skateboarding.
+
+- 
+- 🌱 I’m currently learning MERN stack.
+
+- 
+- ⚡ Fun fact: Slovenian national champ in Skateboarding.👋
 
 <!---
 MitjaTez/MitjaTez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
