@@ -1,13 +1,10 @@
 - 👋 Hi, I’m Mitja Težak
 
 - 
-- 👀 I’m interested in Web Development.
+- 
 
 - 
-- 🌱 I’m currently learning React, Nodejs, PostgreSQL.
 
-- 
-- ⚡ Fun fact: Slovenian national champ in Skateboarding.👋
 
 <!---
 MitjaTez/MitjaTez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
